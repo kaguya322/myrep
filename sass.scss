@@ -1,0 +1,7 @@
+%message-shared{
+    color:red;
+}
+
+p{
+    @extend %message-shared;
+}
